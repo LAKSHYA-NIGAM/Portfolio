@@ -1,0 +1,10 @@
+{
+  "name": "lakshya-nigam-portfolio",
+  "version": "1.0.0",
+  "description": "Lakshya Nigam Personal Portfolio Website",
+  "scripts": {
+    "test": "node --test Portfolio/tests/contact-validator.test.mjs"
+  },
+  "author": "Lakshya Nigam <lakshyanigam20@gmail.com>",
+  "license": "MIT"
+}
